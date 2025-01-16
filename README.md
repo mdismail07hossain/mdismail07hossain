@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Md.Ismail Hossain
 
 # 💫 ABOUT ME:
-🤗😇I am a frontend developer skilled in React and PHP (Laravel), focused on building responsive and user-friendly web applications. I create efficient, dynamic interfaces and enjoy🤩collaborating with teams to deliver seamless user experiences.<br><br> 
+🤗😇I am a frontend developer skilled in React and PHP (Laravel), focused on building responsive and user-friendly web applications.☺️🫡I create efficient, dynamic interfaces and enjoy🤩collaborating with teams to deliver seamless user experiences.<br><br> 
 <br>🧑‍💻 I'm currently learning about PHP(Laravel), React and MySQL<br>🤪 Fun fact code errors my enemy😎😜<br>👀 I’m looking to collaborate with any Open-Source web development projects<br>🤝 Reach out to me: mdismail07.hossain@gmail.com
 
 
@@ -16,7 +16,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdismail07hossain&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdismail07hossain&theme=midnight-purple&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdismail07hossain&theme=midnight-purple&hide_border=false"/>
 </p>
 
 ## 🏆 GitHub Trophies
