@@ -2,7 +2,7 @@
 
 # 💫 ABOUT ME:
 🖥️😇I am a frontend developer🎓skilled in React and PHP (Laravel),🔧focused on building responsive and user-friendly web applications.🧑‍💻☺️I create efficient, dynamic interfaces and enjoy🤩collaborating with teams to deliver seamless user experiences.💻☺️<br><br> 
-<br>🧑‍💻 I'm currently learning about PHP(Laravel), React and MySQL<br>🤪 Fun fact code errors my enemy😎😜<br>👀 I’m looking to collaborate with any Open-Source web development projects<br>🤝 Reach out to me: mdismail07.hossain@gmail.com
+<br>🧑‍💻 I'm currently learning about PHP(Laravel), React and MySQL<br>🤪 Fun fact code errors my enemy😎😜<br>👀 I’m looking to collaborate with any Open-Source web development projects<br>🤝 Reach out to me: mdismail07.hossain@gmail.com 📧
 
 
 ## 🌐 Socials:
